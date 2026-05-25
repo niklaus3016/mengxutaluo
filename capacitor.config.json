@@ -1,0 +1,10 @@
+{
+  "appId": "com.mengxutaluo.app",
+  "appName": "梦序塔罗",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https",
+    "cleartext": true
+  }
+}

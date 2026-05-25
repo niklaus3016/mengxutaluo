@@ -1,0 +1,6 @@
+{
+  "name": "梦序塔罗牌",
+  "description": "一款专注于塔罗占卜、星盘解读、卡牌解析的神秘学应用。提供沉浸式、高质感的视觉与交互体验。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
